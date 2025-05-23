@@ -1,5 +1,6 @@
 📝 Random Daily Task - Gerenciador de Tarefas com Dark Mode
-Preview da Aplicação (Imagem ilustrativa - substitua pelo screenshot real do seu projeto)
+![image](https://github.com/user-attachments/assets/d10e74dc-f03b-43d1-a9e0-dc11fa5127dc)
+
 
 ✨ Funcionalidades Principais
 ✅ Gerenciamento de tarefas (CRUD completo)
